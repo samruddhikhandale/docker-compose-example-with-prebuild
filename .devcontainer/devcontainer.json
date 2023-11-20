@@ -12,7 +12,9 @@
 		"LOCAL_WORKSPACE_FOLDER": "${localWorkspaceFolder}"
 	},
 	"features": {
-		"ghcr.io/devcontainers/features/docker-outside-of-docker:1": {},
+		"ghcr.io/devcontainers/features/docker-outside-of-docker:1": {
+			"version": "v1"
+		},
 		"ghcr.io/devcontainers/features/sshd:1": {
 			"version": "latest"
 		},
